@@ -1,0 +1,156 @@
+*{
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.banner{
+  text-align: right;
+  margin-right: 0;
+}
+
+
+.banner-image{
+  width: 100%;
+}
+
+.banner-title{
+  position: absolute;
+  width: 525px;
+  height: 228px;
+  left: 845px;
+  top: 216px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.banner-description{
+  position: absolute;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+
+  width: 494px;
+  height: 78px;
+  margin-left: 876px;
+  margin-top: 468px;
+  color: white;
+}
+
+.btn-primary{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+background-color: orangered;
+border: none;
+border-radius: 12px;
+}
+
+.btn-primary span{
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* main container style */
+
+.main-title{
+  position: absolute;
+  width: 288px;
+  height: 94px;
+  left: 862px;
+  top: 1178px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  
+}
+.main-desc{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+
+.main-list{
+position: absolute;
+width: 349px;
+height: 162px;
+left: 862px;
+top: 1416px;
+}
+
+.main-body{
+  margin-top: 150px;
+}
+img{
+  margin-left: 70px;
+}
+
+/* my plan styles */
+
+.my-plan{
+  width: 60%;
+  margin-top: 130px;
+  margin-left: auto; 
+  margin-right: auto;
+
+}
+
+.plan-title{
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin-bottom: 50px;
+}
+
+.plan-table{
+  width: 100%;
+  
+}
+
+.plan-table td p{
+  text-align: center;
+}
+
+.habit-description{
+  font-weight: 700;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+
+.footer table {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+
+.footer table td {
+  padding: 100px;
+}
+
+.footer p {
+  margin-top: 15px;
+}
